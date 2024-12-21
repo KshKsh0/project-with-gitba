@@ -4,6 +4,7 @@
 ¦   +---test_set_images
 ¦¦   ¦           
 ¦   +---train
+       |
 ¦       +---groundtruth
 ¦       ¦     
 ¦       ¦       
